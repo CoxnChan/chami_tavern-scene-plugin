@@ -1,1 +1,0 @@
-# chami_tavern-scene-plugin
